@@ -4,3 +4,10 @@ font-size = 16
 cursor-style = block
 window-width = 195
 window-height = 60
+window-theme = ghostty
+macos-titlebar-style = hidden
+
+# Transparency
+background-opacity = 0.8
+background-blur-radius = 20
+
