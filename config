@@ -1,4 +1,4 @@
-theme = Adventure 
+theme = TokyoNight Night 
 font-family = JetBrainsMono Nerd Font Mono
 font-size = 16
 cursor-style = block
@@ -11,3 +11,5 @@ macos-titlebar-style = native
 background-opacity = 0.8
 background-blur-radius = 20
 
+# shaders
+custom-shader=shaders/bloom025.glsl
